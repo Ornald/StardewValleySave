@@ -1,5 +1,5 @@
 @echo off
-echo type "c to commit" or "u to update"
+echo type "c" to commit,"u" to update or "exit" to exit xD
 cd "curl"
 
 set GIT_PATH="C:\Program Files\Git\bin\git.exe"
